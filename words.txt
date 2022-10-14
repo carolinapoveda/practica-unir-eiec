@@ -1,0 +1,10 @@
+perro
+casa
+gato
+mesa
+televisor
+pc
+portatil
+vaso
+teclado
+mouse
